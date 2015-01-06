@@ -1,4 +1,4 @@
-Header 1 git_into_problem_set
+Header 1 git_intro_problem_set
 =============================
 
 Psych 254 Git Introduction Problem Set
