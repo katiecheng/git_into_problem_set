@@ -14,3 +14,6 @@ Header 2 is created by underlining with hyphens
 ###### 6 hash marks
 
 > blockquotes with angle brackets
+>
+> ## 2 hash marks in blockquotes
+>
